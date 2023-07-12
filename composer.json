@@ -1,5 +1,5 @@
 {
-    "name": "m4tr1ck/livewire-datatables",
+    "name": "mediconesystems/livewire-datatables",
     "description": "Advanced datatables using Laravel, Livewire, Tailwind CSS and Alpine JS",
     "keywords": [
         "php",
@@ -23,11 +23,6 @@
         {
             "name": "Herbert Maschke",
             "email": "thyseus@pm.me",
-            "role": "Developer"
-        },
-        {
-            "name": "Marcel Nowocyn",
-            "email": "marcel.nowocyn@gmail.com",
             "role": "Developer"
         }
     ],
